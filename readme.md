@@ -22,4 +22,4 @@ Now, once you've got your environment all ready follow the next steps to run the
 
 -In your favorite browser, go to localhost:3000
 
--You should see a message rendered to the screen, this means everything went right and your are ready to rock some React
+-You should see a message rendered to the screen, this means everything went right and you're ready to rock some React
